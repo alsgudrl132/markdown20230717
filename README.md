@@ -1,3 +1,7 @@
+
+### 8. 이미지 넣기
+![여름]
+
 ### 7. 하이퍼링크
 [PCWK](https://cafe.daum.net/pcwk)
 
